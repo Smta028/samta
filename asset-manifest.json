@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samta/static/css/main.9abe30ca.css",
+    "main.js": "/samta/static/js/main.e8433ad9.js",
+    "index.html": "/samta/index.html",
+    "main.9abe30ca.css.map": "/samta/static/css/main.9abe30ca.css.map",
+    "main.e8433ad9.js.map": "/samta/static/js/main.e8433ad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9abe30ca.css",
+    "static/js/main.e8433ad9.js"
+  ]
+}
